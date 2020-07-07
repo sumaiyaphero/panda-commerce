@@ -1,0 +1,38 @@
+.nav-link{
+    color: rgb(56, 56, 56)!important;
+}
+.card{
+    padding: 30px;
+    box-shadow:5px 5px 10px lightgrey;
+}
+.cat{
+    border: 0;
+    box-shadow: none;
+}
+.cate{
+    text-align: center;
+}
+.sd{
+    height: 200px;
+}
+.catus{
+    border: none;
+    box-shadow:0px 0px 20px lightgrey;
+    border-radius: 20px 8px 40px 8px;
+    display: inline-block;
+    padding: 50px;
+}
+.catus-2{
+    border-radius: 8px 20px 8px 40px;
+    padding: 50px;
+}
+
+.mew{
+    width: 100px;
+    height: 10px;
+    background: linear-gradient(90deg,rgb(253, 189, 68),rgb(209, 136, 0));
+    border-radius: 20px;
+}
+.baba{
+    color: orange;
+}
